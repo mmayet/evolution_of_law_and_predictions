@@ -1,0 +1,15 @@
+.pkl
+*.pkl
+/.pkl
+/*.pkl
+*/.pkl
+*/*.pkl
+**/*.pkl
+
+.ipynb_checkpoints
+*.ipynb_checkpoints
+/.ipynb_checkpoints
+/*.ipynb_checkpoints
+*/.ipynb_checkpoints
+*/*.ipynb_checkpoints
+**/*.ipynb_checkpoints
