@@ -7,3 +7,7 @@
 
 
 ## [Timeline](https://docs.google.com/spreadsheets/d/1bx6ANviBAZdxgeOn4GX6rVv598XNhf1og77SO6I86HI/edit?usp=sharing)
+
+## Data
+- **~150 Book Categories**
+    - **~15,000 Books**
