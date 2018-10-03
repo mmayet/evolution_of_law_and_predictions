@@ -4,6 +4,8 @@ This is a ["Natural Language Processing"](https://www.forbes.com/sites/forbestec
 
 This project will use machine learning (artificial intelligence) and the law books of the four schools (found on http://shamela.ws/ in their respective sections).
 
+### I am a subject matter expert, but for additional prior data, I also surveyed other experts using this [`form`](https://docs.google.com/forms/d/e/1FAIpQLSf1IS6sKlZibQaI_rAHJ18Kmioi42m4VaLcsP-SNsRGFCrdow/viewform). Results will be available and displayed soon.
+
 ## Problem Statement
 I hope to be able to answer the following questions:
 1. Which words and phrases are the most specific to each school? (i.e., do *Ḥanafī*<sup>[3](#fn3)</sup> works often cite *“qiyās”*<sup>[4](#fn4)</sup> far more than *Ḥanbalī*<sup>[5](#fn5)</sup> works do?)
