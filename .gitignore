@@ -13,3 +13,5 @@
 */.ipynb_checkpoints
 */*.ipynb_checkpoints
 **/*.ipynb_checkpoints
+
+data/13*/*.json
