@@ -38,7 +38,7 @@ Note:
 ## Data
 - **4 Categories**
 - **254 Books**
-    - **[Ḥanafi: 48](http://shamela.ws/index.php/category/134)**
+    - **[Ḥanafī: 48](http://shamela.ws/index.php/category/134)**
     - **[Mālikī: 66](http://shamela.ws/index.php/category/135)**
     - **[Shāfiʿī: 61](http://shamela.ws/index.php/category/136)**
     - **[Ḥanbalī: 79](http://shamela.ws/index.php/category/137)**

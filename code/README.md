@@ -1,9 +1,14 @@
-# Indexing [Shamela.ws](http://shamela.ws)
+# The Process
 
-### The point here is to understand the sitemap, and be able to use that to iterate through all of the categories/genres, and thus use that to iterate through every book within a given category.
+## 0. The Questions: 
+1. Which words and phrases are the most specific to each school? (i.e., do *Ḥanafī* works often cite *“qiyās”* far more than *Ḥanbalī* works do?)
+2. How do those school-specific words and phrases change from century to century? (i.e., do the earlier works predominantly quote *Qurʾān* and *Aḥādīth*, while later works simply reference back to the opinions of previous scholars?)
+3. Can these keywords and phrases be used to accurately predict with which *madhhab* an author affiliates? (i.e., do the *ḥadīth* commentaries of Mullā ʿAlī al-Qārī [rḥA] and Imām al-Nawawī [rḥA] clearly mark them as *“Ḥanafī”* and *“Shāfiʿī”* respectively?)
+4. [Time Permitting] Can I provide a summary of the texts in a manner that is both inclusive and exclusive, but still staying true to the original intent of the author?
+*The full statement can be found in the [directory above](../)*
 
-#### Technicalities:
-1. Scraping is terribly slow within a `.ipynb` file.
-2. Neither the categories, nor the books, are ordered in a standard manner. Thus, the category and book ids need to be scraped, and can't simply be pulled from a `range(0,10000)` loop of some sort.
-3. Within a category, it's possible to have hundreds of books, which leads to the category of books consisting of multiple pages, which also need to be iterated over, within a category.
-4. **The most cumbersome** of these is that the books are saved as HTML page by page. There is no single source to get the text of an entire book. So instead of going to the book-page (i.e., `http://shamela.ws/index.php/book/00000`), the corpus of the book must be taken page by page (i.e., `http://shamela.ws/browse.php/book-00000#page-10000`). Thus, this task will take much longer and will be addressed
+## 1. Getting The Data: [01_data_collection](01_data_collection)
+## 2. Exploring The Data: [02_eda](02_eda)
+## 3. Model The Data: [03_modeling](03_modeling)
+## 4. Evaluating The Data: [03_evaluation](03_evaluation)
+## 5. Answering The Questions
