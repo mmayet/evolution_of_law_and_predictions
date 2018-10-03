@@ -4,8 +4,6 @@ This is a ["Natural Language Processing"](https://www.forbes.com/sites/forbestec
 
 This project will use machine learning (artificial intelligence) and the law books of the four schools (found on http://shamela.ws/ in their respective sections).
 
-### I am a subject matter expert, but for additional prior data, I also surveyed other experts using this [`form`](https://docs.google.com/forms/d/e/1FAIpQLSf1IS6sKlZibQaI_rAHJ18Kmioi42m4VaLcsP-SNsRGFCrdow/viewform). Results will be available and displayed soon.
-
 ## Problem Statement
 I hope to be able to answer the following questions:
 1. Which words and phrases are the most specific to each school? (i.e., do *Ḥanafī*<sup>[3](#fn3)</sup> works often cite *“qiyās”*<sup>[4](#fn4)</sup> far more than *Ḥanbalī*<sup>[5](#fn5)</sup> works do?)
@@ -13,7 +11,9 @@ I hope to be able to answer the following questions:
 3. Can these keywords and phrases be used to accurately predict with which *madhhab* an author affiliates? (i.e., do the *ḥadīth* commentaries of Mullā ʿAlī al-Qārī [rḥA] and Imām al-Nawawī [rḥA] clearly mark them as *“Ḥanafī”* and *“Shāfiʿī”*<sup>[8](#fn8)</sup> respectively?)
 4. [Time Permitting] Can I provide a summary of the texts in a manner that is both inclusive and exclusive, but still staying true to the original intent of the author?
 
-Note:
+### I am a subject matter expert, but for additional prior data, I also surveyed other experts using this [`form`](https://docs.google.com/forms/d/e/1FAIpQLSf1IS6sKlZibQaI_rAHJ18Kmioi42m4VaLcsP-SNsRGFCrdow/viewform). Results will be available and displayed soon.
+
+*Note*:
 1. The years and centuries used in this project refer to the Islamic calender, i.e., the *Hijrī* Lunar calender. For a quick conversion, it will be 578 years behind the current Gregorian calender.
 2. I understand that limiting myself to only those books found within [Shamela](http://shamela.ws/) is not the best representation of the schools as a whole, but this is where there are data available for such a project.
 3. I also understand that there are many books which have commentaries (i.e., for al-Marghinānī’s *al-Hidāyah*, there are at least 3 massive commentaries which include the entire text of *al-Hidāyah*: *al-Bināyah*, *al-ʿInāyah*, and *Fatḥ al-Qadīr*) which might skew the results. In the process, I will search for the optimal statistical and computational method in which to address this issue.
@@ -27,7 +27,7 @@ Note:
     - **[Mālikī: 66](http://shamela.ws/index.php/category/135)**
     - **[Shāfiʿī: 60](http://shamela.ws/index.php/category/136)**
     - **[Ḥanbalī: 77](http://shamela.ws/index.php/category/137)**
-- **Nearly 500k Pages**
+- **Nearly `500K` Pages $\approx$ 5GBs**
 
 ### Footnotes
 <sub><sup><a name="fn1">1</a>. *Fiqh* is the term used for implemented Islamic Law.</sup></sub>
