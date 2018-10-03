@@ -16,30 +16,30 @@ Note:
 2. I understand that limiting myself to only those books found within [Shamela](http://shamela.ws/) is not the best representation of the schools as a whole, but this is where there are data available for such a project.
 3. I also understand that there are many books which have commentaries (i.e., for al-Marghinānī’s *al-Hidāyah*, there are at least 3 massive commentaries which include the entire text of *al-Hidāyah*: *al-Bināyah*, *al-ʿInāyah*, and *Fatḥ al-Qadīr*) which might skew the results. In the process, I will search for the optimal statistical and computational method in which to address this issue.
 
-<a name="fn1">1</a>. *Fiqh* is the term used for implemented Islamic Law.
-
-<a name="fn2">2</a>.  Plural of *madhhab*. Refers to one of the 4 legal schools of Islamic Law.
-
-<a name="fn3">3</a>.  One of the four schools. The first to be codified and well documented (which occurred in the late 2nd century).
-
-<a name="fn4">4</a>.  Legal Analogy
-
-<a name="fn5">5</a>.  One of the four schools.
-
-<a name="fn6">6</a>.  Muslim's religious book, believed to be the words of God.
-
-<a name="fn7">7</a>.  References to the statements and actions of Prophet Muḥammad ﷺ (d. 633 CE).
-
-<a name="fn8">8</a>.  One of the four schools. 
-
-
 ## [Project Timeline](https://docs.google.com/spreadsheets/d/1bx6ANviBAZdxgeOn4GX6rVv598XNhf1og77SO6I86HI/edit?usp=sharing)
 
 ## Data
 - **4 Categories**
-- **254 Books**
+- **251 Books**
     - **[Ḥanafī: 48](http://shamela.ws/index.php/category/134)**
     - **[Mālikī: 66](http://shamela.ws/index.php/category/135)**
-    - **[Shāfiʿī: 61](http://shamela.ws/index.php/category/136)**
-    - **[Ḥanbalī: 79](http://shamela.ws/index.php/category/137)**
+    - **[Shāfiʿī: 60](http://shamela.ws/index.php/category/136)**
+    - **[Ḥanbalī: 77](http://shamela.ws/index.php/category/137)**
 - **Nearly 500k Pages**
+
+### Footnotes
+<sub><sup><a name="fn1">1</a>. *Fiqh* is the term used for implemented Islamic Law.</sup></sub>
+
+<sub><sup><a name="fn2">2</a>.  Plural of *madhhab*. Refers to one of the 4 legal schools of Islamic Law.</sup></sub>
+
+<sub><sup><a name="fn3">3</a>.  One of the four schools. The first to be codified and well documented (which occurred in the late 2nd century).</sup></sub>
+
+<sub><sup><a name="fn4">4</a>.  Legal Analogy</sup></sub>
+
+<sub><sup><a name="fn5">5</a>.  One of the four schools.</sup></sub>
+
+<sub><sup><a name="fn6">6</a>.  Muslim's religious book, believed to be the words of God.
+
+<sub><sup><a name="fn7">7</a>.  References to the statements and actions of Prophet Muḥammad ﷺ (d. 633 CE).</sup></sub>
+
+<sub><sup><a name="fn8">8</a>.  One of the four schools.</sup></sub>
