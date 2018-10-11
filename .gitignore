@@ -15,3 +15,13 @@
 **/*.ipynb_checkpoints
 
 data/13*/*.json
+
+/code/02_process_text/gensim_files/
+code/_02_process_text/gensim_files/*
+/code/02_process_text/gensim_files/**
+
+*/gensim_files/*.mm
+*/gensim_files/*.json
+*/gensim_files/*.txt
+*/gensim_files/*.model
+code/_02_process_text/gensim_files/dict_*

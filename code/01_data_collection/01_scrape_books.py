@@ -115,13 +115,13 @@ all_books = Books()
 # get_dict_index('/index.php/category/137') => 32 —— Ḥanbalī
 
 '''
-This what calls everything necessary from above. It makes the main call to `get_book_text` which fetches everything.
+This is what calls everything necessary from above. It makes the main call to `get_book_text` which fetches everything.
 In reality, this was done with 4 concurrent scripts that each focused on one category to rapidly speed up the process.
 '''
 for category_index in [27,29,30,32]:
     category_url = list(data.keys())[category_index]
 
-    for title,index_url in data[list(data.keys())[29]]:
+    for title,index_url in data[list(data.keys())[category_url]]:
         print(time.time())
         print(title)
         get_book_text(category_url, index_url)
