@@ -6,6 +6,7 @@
 1. [`00_category_book_links.py`](00_category_book_links.py) Get direct links to every category, and every book within that category. Save that as a `.json` for further traversals.
 2. [`01_scrape_books.py`](01_scrape_books.py) Collect every page of every book, along with relevant information (author name, author death date, number of pages), create a `Book` object, and then save each book as a `.json`. (*Note: Once all the data are gathered, all the book files will be dynamically pushed to a PostgreSQL DB in AWS.*)
 3. [`02_clean_json.py`](02_clean_json.py) Scan through all the `Book.json` files ensuring that all numbers are properly encoded as `int64` objects, strings are properly encoded as `object`, and verify all the data (as best as a computer can).
+4. [`03_get_book_titles.py`](03_get_book_titles.py) Re-collect all book titles (since first attempt didn't have proper UTF-8 encoding), and also create an ordered JSON file. This will be useful when using models that require order (such as looking how each book by time, and looking at similarities with just an index number).
 
 #### Technicalities:
 1. Scraping is terribly slow within a `.ipynb` file.

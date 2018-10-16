@@ -121,7 +121,7 @@ In reality, this was done with 4 concurrent scripts that each focused on one cat
 for category_index in [27,29,30,32]:
     category_url = list(data.keys())[category_index]
 
-    for title,index_url in data[list(data.keys())[category_url]]:
+    for title,index_url in data[list(data.keys())[category_index]]:
         print(time.time())
         print(title)
         get_book_text(category_url, index_url)
