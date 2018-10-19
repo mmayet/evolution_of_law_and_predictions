@@ -44,6 +44,7 @@ There are two places wherein the data are modeled.
 - `Ḥanbalīs` use most books, but are rare to use Bukhārī, Abū Dāwūd, and Muwaṭṭāʾ
 - `Mālikīs` heavily use Muslim, Muwaṭṭāʾ (written by Mālik himself), and Abū Dāwūd.
 - `Ḥanafīs` tend to use Abū Dāwūd and Darquṭnī.
+
 |  Ḥanafī  |   Mālikī   |   Shāfiʿī  | Ḥanbali  |
 |:--------:|:----------:|:----------:|----------|
 |  Fatāwa  | Mukhālafah |   Ijtihād  | Khawf    |
@@ -93,7 +94,7 @@ In the context of `al-Maṣlaḥah al-Mursalah` [Common Good] isn't used often, 
 
 Overall, when it comes to using `Ḥadīth` as a source, there has been an increase. Most schools have had an era of heavy ḥadīth usage, and that is probably in part by the schools starting to refute other opinions within their texts, and using narrations as a backup proof.
 
-### [Question 3]((04_recommendations):
+### [Question 3](04_recommendations):
 Reasonable suggestions and recommendations are being made! An interesting point that even I found interesting and confusing during my initial evaluations, was that, books are not recommended by the exact texts themselves, but rather how the texts function as a whole.
 
 For example, *al-Hidāyah fī Sharḥ Bidāyah al-Mubtadī* is a commentary on *Bidāyah al-Mubtadī*. It has a number of commentaries, including *al-Bināyah* and *al-ʿInāyah*. However, none of these are in the top 10 recommendations. However, the texts that are found to be closest to *al-Hidāyah* are actually the texts that are the most similar in regards to depth and details. For example, both *Mukhtaṣar al-Qudūrī* and *Bidāyah al-Mubtadī* are short, simply, and basic introductory works — and they are actually the better recommendations. *al-Hidāyah* is more closely related to texts that provide insight into how law is given preference and the legal methods used and recommends texts of that fashion, such as *Kanz al-Daqāʾiq*. *al-Bināyah* and *al-ʿInāyah*, which are exhaustive commentaries nit-picking every single detail are much closer to *al-Baḥr al-Rāʾiq Sharḥ Kanz al-Daqāʾiq*. And this is valid, even if it be because of that fact that *Hidāyah* and *Kanz* are alike, in the same way that their commentaries are alike.
