@@ -37,7 +37,7 @@ There are two places wherein the data are modeled.
 ## 5. Answering The Questions
 ***The answer to each of the questions can be found within the folder/notebooks specified above. Below is a brief summary.***
 
-#### Question 1:
+### [Question 1]((03_key_phrases_and_time)):
 - It's very shocking to see that `Abū Ḥanīfah` and `Shāfi'ʿī` are referenced so often. It's bizarre that they have a `TFIDF` of 3.5-4, whereas `Mālik` is at 0.2.
 - `Ḥanbalīs` and `Shāfiʿīs` tend to quote a lot of narrations.
 - `Shāfiʿīs` particularly rely heavily on Bukhārī and Bayhaqī
@@ -53,8 +53,9 @@ There are two places wherein the data are modeled.
 |   Farḍ   |            | Mukhālafah | Fitnah   |
 |  Iḥtiyāṭ |            |            |          |
 
-#### Question 2:
+### [Question 2]((03_key_phrases_and_time)):
 ***In regards to codifiers***
+
 Here we see some trends that are expected, and others that aren't.
 Expected:
 - Heavy reference to `Mālik` by early Malikīs.
@@ -71,6 +72,7 @@ Overall Insights:
 `Abū Ḥanīfah` and `Shāfiʿī` are referenced often by all 4 schools, and this has been a continuous trend over the centuries.
 
 ***In regards to legal terms***
+
 `Qiyās` [Analogical Reasoning] is something that `Ḥanafīs` are known for. Although they are the most consistently dominant users of that phrase, there is an add jump with medieval `Mālikīs` who heavily used that phrase. This is probably a result of heavy Mālikī influence and control in Muslim Spain, and when faced with many new issues — while being the primary law makers of that era — turned to `Qiyās` [Analogical Reasoning] to formulate law in a suitable manner.
 
 `Istiḥsān` [Preferring a less common source of law over analogy] is a method of law used almost exclusively by the `Ḥanafīs` and that is quite clear.
@@ -88,4 +90,10 @@ In the context of `al-Maṣlaḥah al-Mursalah` [Common Good] isn't used often, 
 `Ḥanbalīs` have seen a huge influx in `Fitnah` [Societal Issues] arise in the last generation.
 
 ***In regards to source narration***
+
 Overall, when it comes to using `Ḥadīth` as a source, there has been an increase. Most schools have had an era of heavy ḥadīth usage, and that is probably in part by the schools starting to refute other opinions within their texts, and using narrations as a backup proof.
+
+### [Question 3]((04_recommendations):
+Reasonable suggestions and recommendations are being made! An interesting point that even I found interesting and confusing during my initial evaluations, was that, books are not recommended by the exact texts themselves, but rather how the texts function as a whole.
+
+For example, *al-Hidāyah fī Sharḥ Bidāyah al-Mubtadī* is a commentary on *Bidāyah al-Mubtadī*. It has a number of commentaries, including *al-Bināyah* and *al-ʿInāyah*. However, none of these are in the top 10 recommendations. However, the texts that are found to be closest to *al-Hidāyah* are actually the texts that are the most similar in regards to depth and details. For example, both *Mukhtaṣar al-Qudūrī* and *Bidāyah al-Mubtadī* are short, simply, and basic introductory works — and they are actually the better recommendations. *al-Hidāyah* is more closely related to texts that provide insight into how law is given preference and the legal methods used and recommends texts of that fashion, such as *Kanz al-Daqāʾiq*. *al-Bināyah* and *al-ʿInāyah*, which are exhaustive commentaries nit-picking every single detail are much closer to *al-Baḥr al-Rāʾiq Sharḥ Kanz al-Daqāʾiq*. And this is valid, even if it be because of that fact that *Hidāyah* and *Kanz* are alike, in the same way that their commentaries are alike.
