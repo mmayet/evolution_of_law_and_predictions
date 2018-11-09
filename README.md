@@ -1,4 +1,4 @@
-# The Evolution of Fiqh<sup>[1](#fn1)</sup> and Madhhab Prediction
+# The Evolution of Islamic Law<sup>[1](#fn1)</sup> and Text Recommendation
 
 This is a ["Natural Language Processing"](https://www.forbes.com/sites/forbestechcouncil/2018/07/02/what-is-natural-language-processing-and-what-is-it-used-for/#5f6a9fa65d71) project that aims to look at how the four main *madhāhib*<sup>[2](#fn2)</sup> have both individually and collectively changed over time — from their inception by the "founders" themselves up until the current-day scholars who still produce works of *Fiqh* (Islamic Law).
 
